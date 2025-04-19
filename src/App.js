@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Banner from "./components/Banner";
+import Container from "./components/Container";
 
 
 function App() {
@@ -8,11 +9,14 @@ function App() {
     <>
     <Header />
     <Banner />
-    <h1>Hello World!</h1>
-    <p>Div pai e os caralho</p>
+    <Container>
+      <h1>Hello World!</h1>
+      <p>Bem vindo ao React JS</p>
+    </Container>
     <Footer />
     </>
   );
 }
 
 export default App;
+ 
