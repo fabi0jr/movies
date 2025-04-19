@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <Header />
-    <Banner />
+    <Banner image = "home"/>
     <Container>
       <h1>Hello World!</h1>
       <p>Bem vindo ao React JS</p>
