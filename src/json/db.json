@@ -1,27 +1,205 @@
 [
-    {
-      "id": "9ATWNvFDOcU",
-      "title": "Duna: Parte 2 | Trailer Oficial",
-      "cover": "https://img.youtube.com/vi/9ATWNvFDOcU/maxresdefault.jpg",
-      "url": "https://youtu.be/9ATWNvFDOcU"
-    },
-    {
-      "id": "18qDST2_Nh8",
-      "title": "Deadpool & Wolverine | Trailer Oficial",
-      "cover": "https://img.youtube.com/vi/18qDST2_Nh8/maxresdefault.jpg",
-      "url": "https://youtu.be/18qDST2_Nh8"
-    },
-    {
-      "id": "LRKkDxrChxo",
-      "title": "Godzilla e Kong: O Novo Império | Trailer Oficial",
-      "cover": "https://img.youtube.com/vi/LRKkDxrChxo/maxresdefault.jpg",
-      "url": "https://youtu.be/LRKkDxrChxo"
-    },
-    {
-      "id": "4A_kmjtsJ7c",
-      "title": "Mad Max: Estrada da Fúria | Trailer Oficial",
-      "cover": "https://img.youtube.com/vi/4A_kmjtsJ7c/maxresdefault.jpg",
-      "url": "https://youtu.be/4A_kmjtsJ7c"
-    }
-  ]
-  
+  {
+    "id": "6OmJF6VjKMA",
+    "title": "Duna: Parte 2 | Trailer Oficial 2",
+    "cover": "https://img.youtube.com/vi/6OmJF6VjKMA/maxresdefault.jpg",
+    "url": "https://youtu.be/6OmJF6VjKMA",
+    "category": "Ficção Científica"
+  },
+  {
+    "id": "73_1biulkYk",
+    "title": "Deadpool & Wolverine | Trailer Oficial",
+    "cover": "https://img.youtube.com/vi/73_1biulkYk/maxresdefault.jpg",
+    "url": "https://youtu.be/73_1biulkYk",
+    "category": "Ação"
+  },
+  {
+    "id": "LOIMD084NlE",
+    "title": "Godzilla e Kong: O Novo Império | Trailer Oficial",
+    "cover": "https://img.youtube.com/vi/LOIMD084NlE/maxresdefault.jpg",
+    "url": "https://youtu.be/LOIMD084NlE",
+    "category": "Aventura"
+  },
+  {
+    "id": "hEJnMQG9ev8",
+    "title": "Mad Max: Estrada da Fúria | Trailer Oficial",
+    "cover": "https://img.youtube.com/vi/hEJnMQG9ev8/maxresdefault.jpg",
+    "url": "https://youtu.be/hEJnMQG9ev8",
+    "category": "Ação"
+  },
+  {
+    "id": "EXeTwQWrcwY",
+    "title": "Interestelar | Trailer Oficial",
+    "cover": "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+    "url": "https://youtu.be/EXeTwQWrcwY",
+    "category": "Ficção Científica"
+  },
+  {
+    "id": "2LeOH9AGJQM",
+    "title": "Divertida Mente 2 | Trailer Oficial",
+    "cover": "https://img.youtube.com/vi/2LeOH9AGJQM/maxresdefault.jpg",
+    "url": "https://youtu.be/2LeOH9AGJQM",
+    "category": "Animação"
+  },
+  {
+    "id": "uYPbbksJxIg",
+    "title": "Oppenheimer | Trailer Oficial",
+    "cover": "https://img.youtube.com/vi/uYPbbksJxIg/maxresdefault.jpg",
+    "url": "https://youtu.be/uYPbbksJxIg",
+    "category": "Drama"
+  },
+  {
+    "id": "6ZfuNTqbHE8",
+    "title": "Vingadores: Guerra Infinita | Trailer Oficial",
+    "cover": "https://img.youtube.com/vi/6ZfuNTqbHE8/maxresdefault.jpg",
+    "url": "https://youtu.be/6ZfuNTqbHE8",
+    "category": "Ação"
+  },
+  {
+    "id": "TcMBFSGVi1c",
+    "title": "Vingadores: Ultimato | Trailer Oficial",
+    "cover": "https://img.youtube.com/vi/TcMBFSGVi1c/maxresdefault.jpg",
+    "url": "https://youtu.be/TcMBFSGVi1c",
+    "category": "Ação"
+  },
+  {
+    "id": "6OmJF6VjKMA",
+    "title": "Duna: Parte 2 | Trailer Oficial 2 (Versão 2)",
+    "cover": "https://img.youtube.com/vi/6OmJF6VjKMA/maxresdefault.jpg",
+    "url": "https://youtu.be/6OmJF6VjKMA",
+    "category": "Comédia"
+  },
+  {
+    "id": "73_1biulkYk",
+    "title": "Deadpool & Wolverine | Trailer Oficial (Versão 2)",
+    "cover": "https://img.youtube.com/vi/73_1biulkYk/maxresdefault.jpg",
+    "url": "https://youtu.be/73_1biulkYk",
+    "category": "Drama"
+  },
+  {
+    "id": "LOIMD084NlE",
+    "title": "Godzilla e Kong: O Novo Império | Trailer Oficial (Versão 2)",
+    "cover": "https://img.youtube.com/vi/LOIMD084NlE/maxresdefault.jpg",
+    "url": "https://youtu.be/LOIMD084NlE",
+    "category": "Terror"
+  },
+  {
+    "id": "hEJnMQG9ev8",
+    "title": "Mad Max: Estrada da Fúria | Trailer Oficial (Versão 2)",
+    "cover": "https://img.youtube.com/vi/hEJnMQG9ev8/maxresdefault.jpg",
+    "url": "https://youtu.be/hEJnMQG9ev8",
+    "category": "Animação"
+  },
+  {
+    "id": "EXeTwQWrcwY",
+    "title": "Interestelar | Trailer Oficial (Versão 2)",
+    "cover": "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+    "url": "https://youtu.be/EXeTwQWrcwY",
+    "category": "Suspense"
+  },
+  {
+    "id": "2LeOH9AGJQM",
+    "title": "Divertida Mente 2 | Trailer Oficial (Versão 2)",
+    "cover": "https://img.youtube.com/vi/2LeOH9AGJQM/maxresdefault.jpg",
+    "url": "https://youtu.be/2LeOH9AGJQM",
+    "category": "Musical"
+  },
+  {
+    "id": "uYPbbksJxIg",
+    "title": "Oppenheimer | Trailer Oficial (Versão 2)",
+    "cover": "https://img.youtube.com/vi/uYPbbksJxIg/maxresdefault.jpg",
+    "url": "https://youtu.be/uYPbbksJxIg",
+    "category": "Ação"
+  },
+  {
+    "id": "EXeTwQWrcwY",
+    "title": "O Cavaleiro das Trevas | Trailer Oficial (Versão 2)",
+    "cover": "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+    "url": "https://youtu.be/EXeTwQWrcwY",
+    "category": "Aventura"
+  },
+  {
+    "id": "6ZfuNTqbHE8",
+    "title": "Vingadores: Guerra Infinita | Trailer Oficial (Versão 2)",
+    "cover": "https://img.youtube.com/vi/6ZfuNTqbHE8/maxresdefault.jpg",
+    "url": "https://youtu.be/6ZfuNTqbHE8",
+    "category": "Comédia"
+  },
+  {
+    "id": "TcMBFSGVi1c",
+    "title": "Vingadores: Ultimato | Trailer Oficial (Versão 2)",
+    "cover": "https://img.youtube.com/vi/TcMBFSGVi1c/maxresdefault.jpg",
+    "url": "https://youtu.be/TcMBFSGVi1c",
+    "category": "Drama"
+  },
+  {
+    "id": "6OmJF6VjKMA",
+    "title": "Duna: Parte 2 | Trailer Oficial 2 (Versão 3)",
+    "cover": "https://img.youtube.com/vi/6OmJF6VjKMA/maxresdefault.jpg",
+    "url": "https://youtu.be/6OmJF6VjKMA",
+    "category": "Terror"
+  },
+  {
+    "id": "73_1biulkYk",
+    "title": "Deadpool & Wolverine | Trailer Oficial (Versão 3)",
+    "cover": "https://img.youtube.com/vi/73_1biulkYk/maxresdefault.jpg",
+    "url": "https://youtu.be/73_1biulkYk",
+    "category": "Animação"
+  },
+  {
+    "id": "LOIMD084NlE",
+    "title": "Godzilla e Kong: O Novo Império | Trailer Oficial (Versão 3)",
+    "cover": "https://img.youtube.com/vi/LOIMD084NlE/maxresdefault.jpg",
+    "url": "https://youtu.be/LOIMD084NlE",
+    "category": "Suspense"
+  },
+  {
+    "id": "hEJnMQG9ev8",
+    "title": "Mad Max: Estrada da Fúria | Trailer Oficial (Versão 3)",
+    "cover": "https://img.youtube.com/vi/hEJnMQG9ev8/maxresdefault.jpg",
+    "url": "https://youtu.be/hEJnMQG9ev8",
+    "category": "Musical"
+  },
+  {
+    "id": "EXeTwQWrcwY",
+    "title": "Interestelar | Trailer Oficial (Versão 3)",
+    "cover": "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+    "url": "https://youtu.be/EXeTwQWrcwY",
+    "category": "Ação"
+  },
+  {
+    "id": "2LeOH9AGJQM",
+    "title": "Divertida Mente 2 | Trailer Oficial (Versão 3)",
+    "cover": "https://img.youtube.com/vi/2LeOH9AGJQM/maxresdefault.jpg",
+    "url": "https://youtu.be/2LeOH9AGJQM",
+    "category": "Aventura"
+  },
+  {
+    "id": "uYPbbksJxIg",
+    "title": "Oppenheimer | Trailer Oficial (Versão 3)",
+    "cover": "https://img.youtube.com/vi/uYPbbksJxIg/maxresdefault.jpg",
+    "url": "https://youtu.be/uYPbbksJxIg",
+    "category": "Comédia"
+  },
+  {
+    "id": "EXeTwQWrcwY",
+    "title": "O Cavaleiro das Trevas | Trailer Oficial (Versão 3)",
+    "cover": "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+    "url": "https://youtu.be/EXeTwQWrcwY",
+    "category": "Drama"
+  },
+  {
+    "id": "6ZfuNTqbHE8",
+    "title": "Vingadores: Guerra Infinita | Trailer Oficial (Versão 3)",
+    "cover": "https://img.youtube.com/vi/6ZfuNTqbHE8/maxresdefault.jpg",
+    "url": "https://youtu.be/6ZfuNTqbHE8",
+    "category": "Terror"
+  },
+  {
+    "id": "TcMBFSGVi1c",
+    "title": "Vingadores: Ultimato | Trailer Oficial (Versão 3)",
+    "cover": "https://img.youtube.com/vi/TcMBFSGVi1c/maxresdefault.jpg",
+    "url": "https://youtu.be/TcMBFSGVi1c",
+    "category": "Animação"
+  }
+]
