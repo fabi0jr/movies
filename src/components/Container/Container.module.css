@@ -1,6 +1,6 @@
 .container {
     width: 100%;
-    min-height: 450px;
+    height: 100vh;
     background-color: #191919;
     color: white;
     padding-block: 1rem;
